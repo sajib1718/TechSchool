@@ -1,0 +1,41 @@
+.bg-image {
+    background: rgba(29, 29, 29, 0.7);
+}
+
+.btn-color {
+    background-color: #289BDE;
+}
+
+
+
+.discover {
+    height: 190px;
+    width: 606px;
+    left: 497px;
+    top: 988px;
+    border-radius: nullpx;
+    align-items: center;
+
+}
+
+.courses img {
+    height: 190px;
+    width: 180px;
+    left: 150px;
+    top: 1228px;
+    border-radius: 5px;
+
+}
+
+.sc {
+    box-sizing: border-box;
+
+    width: 550px;
+    height: 190px;
+
+    background: #FFFFFF;
+    /* Dark 06 */
+
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+}
