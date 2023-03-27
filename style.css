@@ -39,3 +39,42 @@
     border: 1px solid #E8E8E8;
     border-radius: 5px;
 }
+
+.exp {
+
+    box-sizing: border-box;
+
+    width: 2000px;
+    height: 550px;
+
+    background: #F4FAFD;
+
+
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+
+}
+
+.exp-img img {
+    height: 550px;
+    width: 460px;
+    border-radius: 0px;
+    margin-right: 5px;
+
+}
+
+.register {
+    background-color: #289BDE;
+    height: 280px;
+    width: 1125px;
+    border-radius: 5px;
+
+}
+
+
+
+.sp {
+    background-color: #FFFFFF;
+    color: #289BDE;
+
+}
