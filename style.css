@@ -137,3 +137,26 @@ a {
     background-color: #f1f1f1;
     text-align: center;
 }
+
+.fdb {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+
+    /* White Color */
+
+    background: #FFFFFF;
+    /* Dark 06 */
+
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+}
+
+.fa-star.filled {
+    color: #FFC014
+}
+
+.fa-star.empty {
+    color: #8c7c3a;
+
+}
